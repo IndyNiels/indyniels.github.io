@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The anatomy of a good tool"
-date: 2025-03-10 23:15:09 +0200
+date: 2025-03-10 20:15:09 +0200
 categories: jekyll update
 ---
 
